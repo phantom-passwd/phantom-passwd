@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile! (yeah in EN not FR)
 
 ## About Me
 
@@ -6,8 +6,8 @@ Hello! I'm **Phantom**, a passionate developer with experience in various progra
 
 ### 🚀 Skills
 - **Python**: Advanced
-- **HTML**: Advanced
-- **CSS**: Advanced
+- **HTML**: basic
+- **CSS**: basic
 - **JavaScript**: Beginner
 - **C++**: Basic knowledge
 
@@ -20,7 +20,7 @@ Here are some of my favorite projects:
 ### 📫 Get in Touch
 Feel free to reach out to me:
 
-- **Discord**: [phantom_._](https://discord.com/users/your_discord_id)
+- **Discord**: phantom_._
 - **GitHub**: [phantom-passwd](https://github.com/phantom-passwd)
 
 ---
@@ -40,13 +40,14 @@ Feel free to reach out to me:
 
 ### 🌱 I'm Currently Learning
 - JavaScript: Focusing on understanding asynchronous programming and modern frameworks.
-
+- REACT
 ---
 
 ### ⚡ Fun Facts
 - I love exploring new technologies and finding creative solutions to problems.
 - When I'm not coding, you can find me reading tech blogs or gaming!
+- I made such bad code that it makes me laugh.
 
 ---
 
-### Thank you for visiting my profile! 🌟
+###🌟 Thank you  🌟
