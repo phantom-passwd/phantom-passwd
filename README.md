@@ -1,4 +1,20 @@
 # 👋 Welcome to My GitHub Profile! (yeah in EN not FR)
+<svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes rotate {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    text {
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      fill: #3776AB;
+      animation: rotate 5s linear infinite;
+      transform-origin: center;
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">phantom_._</text>
+</svg>
 
 ## About Me
 
