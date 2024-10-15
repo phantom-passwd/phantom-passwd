@@ -22,7 +22,6 @@ Here are some of my favorite projects:
 Feel free to reach out to me:
 
 - **Discord**: phantom_._
-- **GitHub**: [phantom-passwd](https://github.com/phantom-passwd)
 
 ---
 
