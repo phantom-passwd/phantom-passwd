@@ -12,12 +12,6 @@ Hello! I'm **Phantom**, a passionate developer with experience in various progra
 - **JavaScript**: Beginner
 - **C++**: Basic knowledge
 
-### 🌟 Projects
-Here are some of my favorite projects:
-
-- **[Discord Review Bot](https://github.com/phantom-passwd/Bot-Discord-review)**: A Discord bot that allows users to leave reviews for products with interactive commands.
-- **[AnoCord](#)**: A secure messaging platform that emphasizes privacy and safety. (Link to be added)
-
 ### 📫 Get in Touch
 Feel free to reach out to me:
 
